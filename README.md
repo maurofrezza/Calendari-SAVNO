@@ -6,9 +6,17 @@ Questo repository contiene i calendari della SAVNO in formato digitale. Da diver
 Il supporto all'app è terminato con il 2021. L'app nasce nel 2013 come un progetto a tempo perso e ad uso personale (non mi ricordavo mai di portare fuori la spazzatura!).
 Visto l'apprezzamento da parte dei vari utenti, voglio condividere i dati con voi nella speranza di ottenere aiuto nel supporto dell'app o far nascere qualche nuova iniziativa.
 
+## Voglio aiutare a far continuare il progetto. Cosa posso fare?
+
+Puoi aiutare a convertire i file CSV forniti dalla SAVNO Servizi e convertirli nel formato JSON usato dall'app.
+Puoi anche donare qualche euro tramite PayPal nel link sulla pagina Facebook [Raccolta SAVNO](https://www.facebook.com/raccoltaSAVNO)
+
 ## Voglio inserire i calendari per il mio comune per continuare a usare l'app. Cosa posso fare?
 
-In questo repository troverai tutti i file CSV con i prelievi 2022 ed esempi di come strutturare i file per essere supportati nell'app. Una volta i dati potete fare una pull request o mandarmeli alla mail di Raccolta SAVNO. Se sono corretti li caricherò e ricevere la mia gratitudine ed elogi nella pagina Facebook di Raccolta SAVNO.
+In questo repository troverai tutti i file CSV con i prelievi 2022 ed esempi di come strutturare i file per essere supportati nell'app. Una volta generati i dati, puoi aprire una pull request o mandarmeli alla mail di Raccolta SAVNO. Se sono corretti li caricherò sul server dell'app.
+
+## E cosa te ne fai delle donazioni ora?
+L'importo raccolto dalle donazioni potrà essere usato per beneficenza oppure per ricompensare chi ha convertito i dati. In ogni caso non voglio tenermeli. 
 
 ## FAQ
 
