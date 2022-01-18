@@ -5,5 +5,36 @@ Ogni anno i file forniti hanno delle differenze che mi forzano a pulirli e organ
 
 I nomi dei files, delle zone, dei tipi di rifiuto sono fissi in quanto l'app li usa per collegare i vari dati e presentarli correttamente.
 
+## Generare i file JSON
+
+Usando i file .csv devi generare i file in formato JSON simili a:
+
+`````
+  [
+    {
+      day: "4",
+      month: "1",
+      year: "2021",
+      type: "Umido",
+      city: "Cappella Maggiore zona A"
+    },
+    {
+      day: "4",
+      month: "8",
+      year: "2021",
+      type: "Vetro",
+      city: "Cappella Maggiore zona A"
+    },
+``````
+
+Il campo type accetta i seguenti valor:
+- Vetro
+- Umido
+- Secco
+- Plastica e Lattine
+- Carta
+
+L'app attualmento non supporta il verde e le ramaglie
+
 ## Supporto iOs
 Non esiste un'app iOs al momento. Esiste comunque un mio tentativo piuttosto grezzo di fornire i prelievi come file .ics per caricare le date in iCalendar o altri calendari che supportano tale formato.
