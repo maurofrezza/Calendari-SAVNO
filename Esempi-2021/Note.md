@@ -24,10 +24,12 @@ Usando i file .csv devi generare i file in formato JSON simili a:
       year: "2021",
       type: "Vetro",
       city: "Cappella Maggiore zona A"
-    },
+    }
+    ...
+ ]
 ``````
 
-Il campo type accetta i seguenti valor:
+Il campo ``type`` accetta i seguenti valori:
 - Vetro
 - Umido
 - Secco
