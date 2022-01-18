@@ -1,0 +1,2933 @@
+BEGIN:VCALENDAR
+VERSION:1.0
+PRODID:-//Raccolta SAVNO//Prelievi//IT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+DESCRIPTION:Calendario prelievi SAVNO
+EMAIL:raccolta.savno@gmail.com
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:412021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210104T070000
+DTEND:20210104T070000
+DTSTAMP:20210104T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:712021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210107T070000
+DTEND:20210107T070000
+DTSTAMP:20210107T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210111T070000
+DTEND:20210111T070000
+DTSTAMP:20210111T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:1312021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210113T070000
+DTEND:20210113T070000
+DTSTAMP:20210113T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1412021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210114T070000
+DTEND:20210114T070000
+DTSTAMP:20210114T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1812021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210118T070000
+DTEND:20210118T070000
+DTSTAMP:20210118T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210121T070000
+DTEND:20210121T070000
+DTSTAMP:20210121T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2512021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210125T070000
+DTEND:20210125T070000
+DTSTAMP:20210125T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:2712021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210127T070000
+DTEND:20210127T070000
+DTSTAMP:20210127T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2812021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210128T070000
+DTEND:20210128T070000
+DTSTAMP:20210128T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210201T070000
+DTEND:20210201T070000
+DTSTAMP:20210201T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:422021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210204T070000
+DTEND:20210204T070000
+DTSTAMP:20210204T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:822021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210208T070000
+DTEND:20210208T070000
+DTSTAMP:20210208T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:1022021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210210T070000
+DTEND:20210210T070000
+DTSTAMP:20210210T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210211T070000
+DTEND:20210211T070000
+DTSTAMP:20210211T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1522021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210215T070000
+DTEND:20210215T070000
+DTSTAMP:20210215T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1822021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210218T070000
+DTEND:20210218T070000
+DTSTAMP:20210218T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2222021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210222T070000
+DTEND:20210222T070000
+DTSTAMP:20210222T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:2422021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210224T070000
+DTEND:20210224T070000
+DTSTAMP:20210224T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2522021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210225T070000
+DTEND:20210225T070000
+DTSTAMP:20210225T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:132021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210301T070000
+DTEND:20210301T070000
+DTSTAMP:20210301T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:432021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210304T070000
+DTEND:20210304T070000
+DTSTAMP:20210304T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:832021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210308T070000
+DTEND:20210308T070000
+DTSTAMP:20210308T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:1032021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210310T070000
+DTEND:20210310T070000
+DTSTAMP:20210310T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1132021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210311T070000
+DTEND:20210311T070000
+DTSTAMP:20210311T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1532021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210315T070000
+DTEND:20210315T070000
+DTSTAMP:20210315T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1832021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210318T070000
+DTEND:20210318T070000
+DTSTAMP:20210318T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2232021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210322T070000
+DTEND:20210322T070000
+DTSTAMP:20210322T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:2432021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210324T070000
+DTEND:20210324T070000
+DTSTAMP:20210324T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2532021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210325T070000
+DTEND:20210325T070000
+DTSTAMP:20210325T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2932021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210329T070000
+DTEND:20210329T070000
+DTSTAMP:20210329T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:142021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210401T070000
+DTEND:20210401T070000
+DTSTAMP:20210401T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:342021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210403T070000
+DTEND:20210403T070000
+DTSTAMP:20210403T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:742021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210407T070000
+DTEND:20210407T070000
+DTSTAMP:20210407T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:842021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210408T070000
+DTEND:20210408T070000
+DTSTAMP:20210408T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1242021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210412T070000
+DTEND:20210412T070000
+DTSTAMP:20210412T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1542021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210415T070000
+DTEND:20210415T070000
+DTSTAMP:20210415T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1942021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210419T070000
+DTEND:20210419T070000
+DTSTAMP:20210419T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:2142021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210421T070000
+DTEND:20210421T070000
+DTSTAMP:20210421T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2242021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210422T070000
+DTEND:20210422T070000
+DTSTAMP:20210422T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2642021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210426T070000
+DTEND:20210426T070000
+DTSTAMP:20210426T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2942021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210429T070000
+DTEND:20210429T070000
+DTSTAMP:20210429T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:352021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210503T070000
+DTEND:20210503T070000
+DTSTAMP:20210503T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:552021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210505T070000
+DTEND:20210505T070000
+DTSTAMP:20210505T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:652021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210506T070000
+DTEND:20210506T070000
+DTSTAMP:20210506T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1052021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210510T070000
+DTEND:20210510T070000
+DTSTAMP:20210510T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1352021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210513T070000
+DTEND:20210513T070000
+DTSTAMP:20210513T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1752021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210517T070000
+DTEND:20210517T070000
+DTSTAMP:20210517T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:1952021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210519T070000
+DTEND:20210519T070000
+DTSTAMP:20210519T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2052021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210520T070000
+DTEND:20210520T070000
+DTSTAMP:20210520T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2452021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210524T070000
+DTEND:20210524T070000
+DTSTAMP:20210524T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2752021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210527T070000
+DTEND:20210527T070000
+DTSTAMP:20210527T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:3152021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210531T070000
+DTEND:20210531T070000
+DTSTAMP:20210531T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:362021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210603T070000
+DTEND:20210603T070000
+DTSTAMP:20210603T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:562021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210605T070000
+DTEND:20210605T070000
+DTSTAMP:20210605T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:762021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210607T070000
+DTEND:20210607T070000
+DTSTAMP:20210607T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1062021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210610T070000
+DTEND:20210610T070000
+DTSTAMP:20210610T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1462021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210614T070000
+DTEND:20210614T070000
+DTSTAMP:20210614T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:1662021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210616T070000
+DTEND:20210616T070000
+DTSTAMP:20210616T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1762021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210617T070000
+DTEND:20210617T070000
+DTSTAMP:20210617T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2162021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210621T070000
+DTEND:20210621T070000
+DTSTAMP:20210621T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2462021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210624T070000
+DTEND:20210624T070000
+DTSTAMP:20210624T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2862021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210628T070000
+DTEND:20210628T070000
+DTSTAMP:20210628T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:3062021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210630T070000
+DTEND:20210630T070000
+DTSTAMP:20210630T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:172021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210701T070000
+DTEND:20210701T070000
+DTSTAMP:20210701T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:572021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210705T070000
+DTEND:20210705T070000
+DTSTAMP:20210705T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:872021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210708T070000
+DTEND:20210708T070000
+DTSTAMP:20210708T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1272021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210712T070000
+DTEND:20210712T070000
+DTSTAMP:20210712T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:1472021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210714T070000
+DTEND:20210714T070000
+DTSTAMP:20210714T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1572021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210715T070000
+DTEND:20210715T070000
+DTSTAMP:20210715T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1972021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210719T070000
+DTEND:20210719T070000
+DTSTAMP:20210719T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2272021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210722T070000
+DTEND:20210722T070000
+DTSTAMP:20210722T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2672021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210726T070000
+DTEND:20210726T070000
+DTSTAMP:20210726T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:2872021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210728T070000
+DTEND:20210728T070000
+DTSTAMP:20210728T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2972021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210729T070000
+DTEND:20210729T070000
+DTSTAMP:20210729T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:282021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210802T070000
+DTEND:20210802T070000
+DTSTAMP:20210802T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:582021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210805T070000
+DTEND:20210805T070000
+DTSTAMP:20210805T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:982021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210809T070000
+DTEND:20210809T070000
+DTSTAMP:20210809T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:1182021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210811T070000
+DTEND:20210811T070000
+DTSTAMP:20210811T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1282021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210812T070000
+DTEND:20210812T070000
+DTSTAMP:20210812T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1682021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210816T070000
+DTEND:20210816T070000
+DTSTAMP:20210816T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1982021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210819T070000
+DTEND:20210819T070000
+DTSTAMP:20210819T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2382021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210823T070000
+DTEND:20210823T070000
+DTSTAMP:20210823T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:2582021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210825T070000
+DTEND:20210825T070000
+DTSTAMP:20210825T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2682021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210826T070000
+DTEND:20210826T070000
+DTSTAMP:20210826T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:3082021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210830T070000
+DTEND:20210830T070000
+DTSTAMP:20210830T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:292021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210902T070000
+DTEND:20210902T070000
+DTSTAMP:20210902T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:692021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210906T070000
+DTEND:20210906T070000
+DTSTAMP:20210906T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:892021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210908T070000
+DTEND:20210908T070000
+DTSTAMP:20210908T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:992021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210909T070000
+DTEND:20210909T070000
+DTSTAMP:20210909T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1392021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210913T070000
+DTEND:20210913T070000
+DTSTAMP:20210913T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:1692021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210916T070000
+DTEND:20210916T070000
+DTSTAMP:20210916T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2092021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210920T070000
+DTEND:20210920T070000
+DTSTAMP:20210920T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:2292021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210922T070000
+DTEND:20210922T070000
+DTSTAMP:20210922T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2392021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210923T070000
+DTEND:20210923T070000
+DTSTAMP:20210923T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2792021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210927T070000
+DTEND:20210927T070000
+DTSTAMP:20210927T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:3092021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210930T070000
+DTEND:20210930T070000
+DTSTAMP:20210930T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:4102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211004T070000
+DTEND:20211004T070000
+DTSTAMP:20211004T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:6102021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211006T070000
+DTEND:20211006T070000
+DTSTAMP:20211006T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:7102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211007T070000
+DTEND:20211007T070000
+DTSTAMP:20211007T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:11102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211011T070000
+DTEND:20211011T070000
+DTSTAMP:20211011T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:14102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211014T070000
+DTEND:20211014T070000
+DTSTAMP:20211014T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:18102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211018T070000
+DTEND:20211018T070000
+DTSTAMP:20211018T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:20102021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211020T070000
+DTEND:20211020T070000
+DTSTAMP:20211020T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:21102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211021T070000
+DTEND:20211021T070000
+DTSTAMP:20211021T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:25102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211025T070000
+DTEND:20211025T070000
+DTSTAMP:20211025T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:28102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211028T070000
+DTEND:20211028T070000
+DTSTAMP:20211028T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:30102021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211030T070000
+DTEND:20211030T070000
+DTSTAMP:20211030T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:3112021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211103T070000
+DTEND:20211103T070000
+DTSTAMP:20211103T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:4112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211104T070000
+DTEND:20211104T070000
+DTSTAMP:20211104T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:8112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211108T070000
+DTEND:20211108T070000
+DTSTAMP:20211108T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:11112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211111T070000
+DTEND:20211111T070000
+DTSTAMP:20211111T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:15112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211115T070000
+DTEND:20211115T070000
+DTSTAMP:20211115T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:17112021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211117T070000
+DTEND:20211117T070000
+DTSTAMP:20211117T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:18112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211118T070000
+DTEND:20211118T070000
+DTSTAMP:20211118T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:22112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211122T070000
+DTEND:20211122T070000
+DTSTAMP:20211122T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:25112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211125T070000
+DTEND:20211125T070000
+DTSTAMP:20211125T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:29112021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211129T070000
+DTEND:20211129T070000
+DTSTAMP:20211129T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:1122021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211201T070000
+DTEND:20211201T070000
+DTSTAMP:20211201T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:2122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211202T070000
+DTEND:20211202T070000
+DTSTAMP:20211202T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:6122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211206T070000
+DTEND:20211206T070000
+DTSTAMP:20211206T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:9122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211209T070000
+DTEND:20211209T070000
+DTSTAMP:20211209T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:13122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211213T070000
+DTEND:20211213T070000
+DTSTAMP:20211213T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:15122021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211215T070000
+DTEND:20211215T070000
+DTSTAMP:20211215T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:16122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211216T070000
+DTEND:20211216T070000
+DTSTAMP:20211216T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:20122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211220T070000
+DTEND:20211220T070000
+DTSTAMP:20211220T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:23122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211223T070000
+DTEND:20211223T070000
+DTSTAMP:20211223T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:27122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211227T070000
+DTEND:20211227T070000
+DTSTAMP:20211227T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Secco - SAVNO
+UID:29122021SeccoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211229T070000
+DTEND:20211229T070000
+DTSTAMP:20211229T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Secco - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:gray
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Umido - SAVNO
+UID:30122021UmidoGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211230T070000
+DTEND:20211230T070000
+DTSTAMP:20211230T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Umido - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:green
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:412021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210104T070000
+DTEND:20210104T070000
+DTSTAMP:20210104T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:912021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210109T070000
+DTEND:20210109T070000
+DTSTAMP:20210109T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:1112021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210111T070000
+DTEND:20210111T070000
+DTSTAMP:20210111T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:1812021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210118T070000
+DTEND:20210118T070000
+DTSTAMP:20210118T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:2512021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210125T070000
+DTEND:20210125T070000
+DTSTAMP:20210125T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:122021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210201T070000
+DTEND:20210201T070000
+DTSTAMP:20210201T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:322021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210203T070000
+DTEND:20210203T070000
+DTSTAMP:20210203T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:822021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210208T070000
+DTEND:20210208T070000
+DTSTAMP:20210208T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:1522021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210215T070000
+DTEND:20210215T070000
+DTSTAMP:20210215T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:2222021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210222T070000
+DTEND:20210222T070000
+DTSTAMP:20210222T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:132021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210301T070000
+DTEND:20210301T070000
+DTSTAMP:20210301T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:332021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210303T070000
+DTEND:20210303T070000
+DTSTAMP:20210303T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:832021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210308T070000
+DTEND:20210308T070000
+DTSTAMP:20210308T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:1532021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210315T070000
+DTEND:20210315T070000
+DTSTAMP:20210315T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:2232021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210322T070000
+DTEND:20210322T070000
+DTSTAMP:20210322T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:2932021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210329T070000
+DTEND:20210329T070000
+DTSTAMP:20210329T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:3132021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210331T070000
+DTEND:20210331T070000
+DTSTAMP:20210331T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:342021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210403T070000
+DTEND:20210403T070000
+DTSTAMP:20210403T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:1242021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210412T070000
+DTEND:20210412T070000
+DTSTAMP:20210412T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:1942021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210419T070000
+DTEND:20210419T070000
+DTSTAMP:20210419T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:2642021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210426T070000
+DTEND:20210426T070000
+DTSTAMP:20210426T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:2842021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210428T070000
+DTEND:20210428T070000
+DTSTAMP:20210428T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:352021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210503T070000
+DTEND:20210503T070000
+DTSTAMP:20210503T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:1052021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210510T070000
+DTEND:20210510T070000
+DTSTAMP:20210510T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:1752021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210517T070000
+DTEND:20210517T070000
+DTSTAMP:20210517T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:2452021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210524T070000
+DTEND:20210524T070000
+DTSTAMP:20210524T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:2652021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210526T070000
+DTEND:20210526T070000
+DTSTAMP:20210526T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:3152021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210531T070000
+DTEND:20210531T070000
+DTSTAMP:20210531T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:762021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210607T070000
+DTEND:20210607T070000
+DTSTAMP:20210607T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:1462021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210614T070000
+DTEND:20210614T070000
+DTSTAMP:20210614T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:2162021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210621T070000
+DTEND:20210621T070000
+DTSTAMP:20210621T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:2362021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210623T070000
+DTEND:20210623T070000
+DTSTAMP:20210623T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:2862021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210628T070000
+DTEND:20210628T070000
+DTSTAMP:20210628T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:572021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210705T070000
+DTEND:20210705T070000
+DTSTAMP:20210705T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:1272021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210712T070000
+DTEND:20210712T070000
+DTSTAMP:20210712T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:1972021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210719T070000
+DTEND:20210719T070000
+DTSTAMP:20210719T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:2172021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210721T070000
+DTEND:20210721T070000
+DTSTAMP:20210721T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:2672021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210726T070000
+DTEND:20210726T070000
+DTSTAMP:20210726T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:282021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210802T070000
+DTEND:20210802T070000
+DTSTAMP:20210802T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:982021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210809T070000
+DTEND:20210809T070000
+DTSTAMP:20210809T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:1682021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210816T070000
+DTEND:20210816T070000
+DTSTAMP:20210816T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:1882021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210818T070000
+DTEND:20210818T070000
+DTSTAMP:20210818T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:2382021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210823T070000
+DTEND:20210823T070000
+DTSTAMP:20210823T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:3082021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210830T070000
+DTEND:20210830T070000
+DTSTAMP:20210830T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:692021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210906T070000
+DTEND:20210906T070000
+DTSTAMP:20210906T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:1392021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210913T070000
+DTEND:20210913T070000
+DTSTAMP:20210913T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:1592021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210915T070000
+DTEND:20210915T070000
+DTSTAMP:20210915T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:2092021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210920T070000
+DTEND:20210920T070000
+DTSTAMP:20210920T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:2792021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20210927T070000
+DTEND:20210927T070000
+DTSTAMP:20210927T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:4102021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211004T070000
+DTEND:20211004T070000
+DTSTAMP:20211004T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:11102021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211011T070000
+DTEND:20211011T070000
+DTSTAMP:20211011T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:13102021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211013T070000
+DTEND:20211013T070000
+DTSTAMP:20211013T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:18102021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211018T070000
+DTEND:20211018T070000
+DTSTAMP:20211018T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:25102021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211025T070000
+DTEND:20211025T070000
+DTSTAMP:20211025T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:30102021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211030T070000
+DTEND:20211030T070000
+DTSTAMP:20211030T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:8112021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211108T070000
+DTEND:20211108T070000
+DTSTAMP:20211108T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:10112021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211110T070000
+DTEND:20211110T070000
+DTSTAMP:20211110T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:15112021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211115T070000
+DTEND:20211115T070000
+DTSTAMP:20211115T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:22112021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211122T070000
+DTEND:20211122T070000
+DTSTAMP:20211122T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:29112021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211129T070000
+DTEND:20211129T070000
+DTSTAMP:20211129T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:6122021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211206T070000
+DTEND:20211206T070000
+DTSTAMP:20211206T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Vetro - SAVNO
+UID:11122021VetroGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211211T070000
+DTEND:20211211T070000
+DTSTAMP:20211211T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Vetro - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:blue
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:13122021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211213T070000
+DTEND:20211213T070000
+DTSTAMP:20211213T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Carta - SAVNO
+UID:20122021CartaGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211220T070000
+DTEND:20211220T070000
+DTSTAMP:20211220T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Carta - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:yellow
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Prelievo Plastica e Lattine - SAVNO
+UID:27122021PlasticaeLattineGodegadiSant'UrbanozonaNordferrovia
+SEQUENCE:0
+STATUS:CONFIRMED
+RRULE:FREQ=DAILY;INTERVAL=1;COUNT=1
+DTSTART:20211227T070000
+DTEND:20211227T070000
+DTSTAMP:20211227T070000
+CATEGORIES:Raccolta SAVNO
+LOCATION:Godega di Sant'Urbano zona Nord ferrovia
+DESCRIPTION:Prelievo Plastica e Lattine - Comune di Godega di Sant'Urbano zona Nord ferrovia
+URL:www.savno.it
+COLOR:red
+END:VEVENT
+END:VCALENDAR
