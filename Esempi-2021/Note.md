@@ -38,5 +38,7 @@ Il campo ``type`` accetta i seguenti valori:
 
 L'app attualmento non supporta il verde e le ramaglie
 
+Per verificare che è un file JSON corretto, puoi usare un sito di validazione come [jsonformatter.org](https://jsonformatter.org/)
+
 ## Supporto iOs
 Non esiste un'app iOs al momento. Esiste comunque un mio tentativo piuttosto grezzo di fornire i prelievi come file .ics per caricare le date in iCalendar o altri calendari che supportano tale formato.

@@ -13,17 +13,15 @@ Puoi anche donare qualche euro tramite PayPal nel link sulla pagina Facebook [Ra
 
 ## Voglio inserire i calendari per il mio comune per continuare a usare l'app. Cosa posso fare?
 
-In questo repository troverai tutti i file CSV con i prelievi 2022 ed esempi di come strutturare i file per essere supportati nell'app. Una volta generati i dati, puoi aprire una pull request o mandarmeli alla mail di Raccolta SAVNO. Se sono corretti li caricherò sul server dell'app.
+Qui trovi tutti i file CSV con i prelievi 2022. Questi sono i calendari che la SAVNO stessa mi fornisce ogni anno.
+Partendo da questi file bisgona generare i file in formato JSON come negli esempi. 
+
+Una volta generati i dati, puoi aprire una pull request o mandarmeli alla mail di Raccolta SAVNO. Se sono corretti li caricherò sul server dell'app.
 
 ## E cosa te ne fai delle donazioni ora?
 L'importo raccolto dalle donazioni potrà essere usato per beneficenza oppure per ricompensare chi ha convertito i dati. In ogni caso non voglio tenermeli. 
 
 ## FAQ
-
-### Perchè non metti l'app a pagamento?
-
-Non credo tutti siano disposti a pagare per un servizio che già pagano e allo stato attuale non sono interessato a guadagnarci.
-Ho provato in passato a chiedere un contributo su PayPal ma l'iniziativa non ha riscosso successo.
 
 ### Perchè hai smesso?
 
@@ -33,10 +31,15 @@ In aggiunta durante l'anno dovevo sempre rispondere a mail di supporto o recensi
 
 Ho capito che non riesco a fornire un servizio adeguato. Mi dispiace di non aver interrotto il servizio in un modo migliore.
 
+### Perchè non metti l'app a pagamento?
+
+Non credo tutti siano disposti a pagare per un servizio che già pagano e allo stato attuale non sono interessato a guadagnarci.
+Ho provato in passato a chiedere un contributo su PayPal ma l'iniziativa non ha riscosso successo. Se volete donare trovate il link nella pagina Facebook.
+
 ### Perchè non chiedi i soldi alla SAVNO per finanziare il progetto?
 
-Già fatto. Ci sono stati vari tentativi ma nulla di concreto. Almeno non all'inizio quando ne avevo maggiore bisogno. La SAVNO sta cercando di creare la sua app dal 2013. Ora sembrano avere la giusta motivazione visto che interrompo il servizio. 
+Il progetto nasce senza fini di lucro. Ci sono stati vari tentativi da ambo le parti di formare una collaborazione ma non siamo mai riusciti a raggiungere un'intesa. Attualmente non sono interessato a farne un'attivita economica e quindi non ha senso parlare di soldi.
 
-Magari qualcosa di buono nasce da tutto questo. O magari no.
+La SAVNO sta ora cercando di creare la propria applicazione. Magari qualcosa di buono nasce da tutto questo.
 
 
